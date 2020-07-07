@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591845909802",
+    "firebase_url": "https://ejsta-69de3.firebaseio.com",
+    "project_id": "ejsta-69de3",
+    "storage_bucket": "ejsta-69de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591845909802:android:6b33b049402762b162ea53",
+        "android_client_info": {
+          "package_name": "com.example.ejsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591845909802-ic9bq0ed5dl7d5ekjqn32nab09e8qbfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejsta",
+            "certificate_hash": "a3f6c7e9a321a266a0b77594788a2db00be350b9"
+          }
+        },
+        {
+          "client_id": "591845909802-3s76qlpff45f2empml2knqf0cmi5imu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk97B0PuDP5xkwn9edANzwV2u4d4le_m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591845909802-3s76qlpff45f2empml2knqf0cmi5imu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
